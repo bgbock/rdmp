@@ -1,0 +1,22 @@
+Qty Value                                Device                               Package                               Parts                    Description                          
+2   100u                                 CPOL-EUSMCB                          SMC_B                                 C1, C2                   POLARIZED CAPACITOR, European symbol 
+4   1N4148SOD                            1N4148SOD                            SOD-80                                D2, D3, D4, D5                                                
+3   1k                                   R_0805                               R0805                                 R13, R14, R15                                                 
+1   1n                                   C_0806                               R0805                                 C14                                                           
+5   1u                                   C_0806                               R0805                                 C12, C13, C15, C16, C17                                       
+1   220n                                 C_0806                               R0805                                 C3                                                            
+1   22k                                  R_0805                               R0805                                 R3                                                            
+6   22p                                  C_0806                               R0805                                 C4, C7, C8, C9, C10, C11                                      
+2   22u                                  C_1206                               R1206                                 C5, C6                                                        
+1   2k2                                  R_0805                               R0805                                 R2                                                            
+1   74HC164D                             74HC164D                             SO14                                  IC1                      8-bit parallel out SHIFT REGISTER    
+1   CALVUS_5BAND_SMD_A103400MM_EXCLUSION A103400MM
+1   EAGOG_M                              EAGOG_M_162W                          EADOGM                                LCD2                                                          
+1   LPC810DIP                            LPC810DIP                            DIL8                                  U$2                                                           
+1   P6KE6V8A                             ZENER-DIODESMB                       SMB                                   D1                       Z-Diode                              
+1   SIM900D                              SIM900D                              SIM900D                               GSM1                     maciek@chwarzno.pl                   
+1   SIMHOLDER3                           SIMHOLDER3                           SIMHOLDER3                            U$1                                                           
+1   SUPERCAP10                           SUPERCAP10                           SUPERCAP_10                           U$4                                                           
+3   SWITCH_BD_B                          SWITCH_BD_B                          SW_SMD2                               K1, K2, K3                                                    
+1   TC1015                               TC1015                               SOT23-5                               U$3                                                           
+1   U.FL                                 U.FL                                 U.FL                                  U$10                                                          
